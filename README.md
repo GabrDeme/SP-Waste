@@ -17,12 +17,12 @@ O Artigo surgiu de uma parceiria com o Instituto Limpa Brasil afim de auxiliarmo
 
 ### Grupo 👥
 
-- [Gabriel Demétrio]([https://www.linkedin.com/in/gabrdeme/])
-- [Giovanna Calura]([https://www.linkedin.com/in/giovannacalura/])
-- [Guilherme Sousa]([https://www.linkedin.com/in/guilherme-sousa-oliveira/)
+- [Gabriel Demétrio](https://www.linkedin.com/in/gabrdeme/)
+- [Giovanna Calura](https://www.linkedin.com/in/giovannacalura/)
+- [Guilherme Sousa](https://www.linkedin.com/in/guilherme-sousa-oliveira/)
 - [Luiesley Xavier]([])
-- [Marcelo Araújo]([https://www.linkedin.com/in/marcelo-araujo-cardoso-dev/])
-- [Pedro Sanchez]([https://www.linkedin.com/in/pedroalonsanchez/])
+- [Marcelo Araújo](https://www.linkedin.com/in/marcelo-araujo-cardoso-dev/)
+- [Pedro Sanchez](https://www.linkedin.com/in/pedroalonsanchez/)
 
 ---
 
